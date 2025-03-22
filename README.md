@@ -16,11 +16,11 @@ In this project, I utilized Tableau to create interactive visualizations and das
 - Analyzed the number of listings per bedroom category using another text table to assess trends in property availability based on bedroom count.
 
 Summary Findings:
-Revenue Breakdown: "Entire rental unit" and "Private room in rental unit" together account for approximately 50% of Airbnb's total revenue in NYC.
-Revenue Trends: Property types like "entire condos" and "entire townhouses" typically have higher average prices, highlighting potential opportunities for property owners to focus on these categories.
-Pricing Insights: Larger properties with more bedrooms generally have higher nightly rates, though pricing strategies can differ across neighborhoods.
-Geographic Distribution: Airbnb listings are most concentrated in areas such as the Lower East Side of Manhattan and downtown Brooklyn, particularly in neighborhoods like Williamsburg.
-Market Demand: There is strong demand for mid-range properties (1-2 bedrooms) in popular tourist areas, suggesting that property investors and Airbnb hosts should prioritize this segment to optimize occupancy and revenue.
+- Revenue Breakdown: "Entire rental unit" and "Private room in rental unit" together account for approximately 50% of Airbnb's total revenue in NYC.
+- Revenue Trends: Property types like "entire condos" and "entire townhouses" typically have higher average prices, highlighting potential opportunities for property owners to focus on these categories.
+- Pricing Insights: Larger properties with more bedrooms generally have higher nightly rates, though pricing strategies can differ across neighborhoods.
+- Geographic Distribution: Airbnb listings are most concentrated in areas such as the Lower East Side of Manhattan and downtown Brooklyn, particularly in neighborhoods like Williamsburg.
+- Market Demand: There is strong demand for mid-range properties (1-2 bedrooms) in popular tourist areas, suggesting that property investors and Airbnb hosts should prioritize this segment to optimize occupancy and revenue.
 
 https://public.tableau.com/app/profile/jonathan.chen3061/viz/AirBnBNYC-PropertyTypeAnalysisProject/Dashboard1?publish=yes
 
